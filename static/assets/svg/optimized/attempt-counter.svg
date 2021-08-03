@@ -1,0 +1,8 @@
+<svg width="170" height="44" viewBox="0 0 170 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="attempt-counter_svg__attempt-counter">
+        <circle id="attempt-counter_svg__Ellipse_22" cx="104" cy="22" r="21.5" fill="#fff" stroke="#000"/>
+        <text id="attempt-counter_svg__Attempt" fill="#000" xml:space="preserve" style="white-space:pre" font-family="Exo 2" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="0" y="29.38">Attempt</tspan></text>
+        <text id="attempt-counter_svg__1" fill="#000" xml:space="preserve" style="white-space:pre" font-family="Exo 2" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="100" y="29.38">1</tspan></text>
+        <text id="attempt-counter_svg__/_10" fill="#000" xml:space="preserve" style="white-space:pre" font-family="Exo 2" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="137" y="29.38">/ 10</tspan></text>
+    </g>
+</svg>
