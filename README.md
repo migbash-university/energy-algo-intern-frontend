@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/20924663/108747275-2afef300-7535-11eb-965b-3e24f7cf9c27.png)
-
 A sequence of questions for an AI algorithm to examine user behaviour on the enregy allocations.
 
 The Official Web AI Internship Repository.
